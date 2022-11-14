@@ -6,3 +6,10 @@ h1 {
    p {
         border-style: solid; 
    }
+
+    img {
+        max-width:100%;
+        height:auto;
+    }
+     
+    
